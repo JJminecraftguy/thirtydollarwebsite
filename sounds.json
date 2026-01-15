@@ -241,5 +241,7 @@
     { "id": "cop", "name": "Cop", "source": "Subway Surfers" },
     { "id": "chess", "name": "Capture", "source": "Chess.com", "tags": ["percussion"] },
     { "id": "woo", "emoji": "📢", "useID": true, "name": "Woo!", "source": "VVE1" },
-    { "id": "venus", "name": "Venus", "source": "Earthbound", "tags": ["note"] }
+    { "id": "venus", "name": "Venus", "source": "Earthbound", "tags": ["note"] },
+    { "id": "birdbrain", "name": "Bird Brain", "source": "Kasane Teto" }
+
 ]
